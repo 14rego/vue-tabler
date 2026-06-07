@@ -1,0 +1,29 @@
+{
+  "name": "vue-tabler",
+  "version": "1.0.0",
+  "description": "Vue auto table system",
+  "homepage": "https://github.com/14rego/vue-tabler#readme",
+  "bugs": {
+    "url": "https://github.com/14rego/vue-tabler/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14rego/vue-tabler.git"
+  },
+  "license": "GNU General Public License v3.0",
+  "author": "14rego <github.com/14rego>",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@lucide/vue": "^1.17.0",
+    "axios": "^1.17.0",
+    "dayjs": "^1.11.21",
+    "lodash": "^4.18.1",
+    "tailwindcss": "^4.3.0",
+    "vue": "^3.5.35",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.24"
+  }
+}
